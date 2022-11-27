@@ -1,0 +1,9 @@
+{
+	"name": "JitHubNewDatafactory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "69ac4564-b168-488a-9bdb-d0ea7a98e880",
+		"tenantId": "1276dcff-9084-47f8-b4f9-87398fa6c7b8"
+	}
+}
